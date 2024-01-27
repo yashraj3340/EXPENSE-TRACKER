@@ -1,0 +1,25 @@
+body {
+    background: linear-gradient(to right, #56ab2f, #a8e063);
+    height: 100vh;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
+.error-message {
+    color: red;
+  }
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+.form-heading {
+  font-family: 'Roboto', sans-serif;
+  font-size: 2em;
+  color: #007bff;
+}
+.center-form {
+    display: inline-block;
+    text-align: left;
+  }
+  .icon {
+    margin-right: 10px;
+  }
