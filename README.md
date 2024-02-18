@@ -1,6 +1,6 @@
 # React Expense Tracker Mini Project
 
-This is a simple expense tracker mini project built using React.js. It allows users to add items to a shopping list, providing details such as name, category, and price. Users can also remove items from the list and view the total amount of all expenses.
+This is a simple expense tracker mini project built using React with typescript. It allows users to add items to a shopping list, providing details such as name, category, and price. Users can also remove items from the list and view the total amount of all expenses.
 
 ## Features
 
