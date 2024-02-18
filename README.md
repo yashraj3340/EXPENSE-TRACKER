@@ -10,9 +10,3 @@ This is a simple expense tracker mini project built using React.js. It allows us
 
 ## Usage
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/expense-tracker.git
