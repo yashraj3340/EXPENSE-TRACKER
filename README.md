@@ -8,5 +8,4 @@ This is a simple expense tracker mini project built using React.js. It allows us
 - Remove items from the list.
 - View the total amount of all expenses.
 
-## Usage
 
