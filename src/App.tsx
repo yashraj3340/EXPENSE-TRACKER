@@ -1,9 +1,7 @@
-import { set } from "immer/dist/internal.js";
 import ExpenseList from "./expense-tracker/components/ExpenseList";
 import { useState } from "react";
 import ExpenseFilter from "./expense-tracker/components/ExpenseFilter";
 import ExpenseForm from "./expense-tracker/components/ExpenseForm";
-import categories from "./expense-tracker/categories";
 function App() {
   const [selectedCategory, setSelectedCategory] = useState("");
   const [expenses, setExpenses] = useState([
