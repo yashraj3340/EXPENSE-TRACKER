@@ -1,0 +1,67 @@
+/* Global styles */
+body {
+  background: linear-gradient(to right, #3f463f, #85c131);
+  height: 100vh;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Center the main container */
+.container {
+  width: 100%;
+  max-width: 600px; /* Adjust width as needed */
+  padding: 20px;
+  background-color: #fff; /* White background for the form */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+/* Form heading */
+.form-heading {
+  font-size: 2em;
+  color: #007bff;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+/* Error messages */
+.error-message {
+  color: red;
+  font-size: 0.875rem;
+}
+
+/* Button */
+.submit-button {
+  margin-top: 20px;
+  width: 100%;
+}
+
+/* Table */
+.table-container {
+  margin-top: 20px;
+  background-color: #fff; /* White background for the table */
+  border-radius: 8px; /* Rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  overflow: auto;
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table th, .table td {
+  padding: 12px;
+  text-align: left;
+}
+
+.table th {
+  background-color: #f1f1f1;
+}
+
+.table tfoot {
+  font-weight: bold;
+}
